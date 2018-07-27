@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recursion_Scala_Algorithms.iml" filepath="$PROJECT_DIR$/.idea/modules/Recursion_Scala_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recursion_scala_algorithms-build.iml" filepath="$PROJECT_DIR$/.idea/modules/recursion_scala_algorithms-build.iml" />
+    </modules>
+  </component>
+</project>
